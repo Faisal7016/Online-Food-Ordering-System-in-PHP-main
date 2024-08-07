@@ -1,0 +1,16 @@
+    <!--  Author Name:  Mohammed Faisal.
+                        Mo.Talha Shaikh.
+                        Mohammad Abbas.
+                                              
+**Database Name: code_camp_bd_fos**
+
+**Developed by CraveCart Team**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details**
+
+Username: ccbd
+Password: CodeCampBD2023
+
